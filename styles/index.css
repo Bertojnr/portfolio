@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 nav {
     /* background-color: #0779E4; */
     background-color: transparent;
@@ -46,3 +48,18 @@ nav {
     font-weight: bold;
 }
 
+.hi-there {
+    color: #0779E4;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    position: relative;
+    z-index: 0;
+    display: inline-block;
+    font-family: "Roboto", Arial, sans-serif;
+    background-color: #FFFFFF;
+    padding: 4px 9px;
+    border-radius: 4px;
+    margin: 0px 0px 5px;
+    font-weight: 700;
+}
